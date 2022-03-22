@@ -4,7 +4,6 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/O-Isaac/fgo-build-spritesheet.svg)](https://github.com/O-Isaac/fgo-build-spritesheet/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/O-Isaac/fgo-build-spritesheet.svg)](https://github.com/O-Isaac/fgo-build-spritesheet/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
 </div>
 
