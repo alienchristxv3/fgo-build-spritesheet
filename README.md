@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
 <h3 align="center">FGO - Sprite Sheet Build</h3>
-
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
@@ -14,21 +8,19 @@
 
 </div>
 
----
-
 <p align="center"> 
-  Transform sprites sheets from atlas academy
+  Transform sprites sheets from atlasacademy.io
   <hr />
   <p align="center">
     <a href="" rel="noopener">
-    <img width=200px height=200px src="https://static.atlasacademy.io/JP/CharaFigure/98001000/98001000_merged.png" alt="Sheet Atlas"></a>
+    <img style="max-width: 100%; width: 200px; height: auto" src="https://static.atlasacademy.io/JP/CharaFigure/98001000/98001000_merged.png" alt="Sheet Atlas"></a>
   </p>
-
-Into individual files
-
-  <hr />
+  
+  
   <p align="center">
+    Into individual files
+    <hr />
     <a href="" rel="noopener">
-    <img width=200px height=200px src="https://i.imgur.com/HKntP7V.png" alt="Sheet Atlas"></a>
+    <img src="https://i.imgur.com/HKntP7V.png" alt="Individual Sheets"></a>
   </p>
 </p>
