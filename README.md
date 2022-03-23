@@ -23,3 +23,11 @@
     <img src="https://i.imgur.com/HKntP7V.png" alt="Individual Sheets"></a>
   </p>
 </p>
+
+<H1>Requeriment</H1>
+Install next's dependencies:
+
+```bash
+pip install easygui
+pip install pillow
+````
